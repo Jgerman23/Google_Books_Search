@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { Link, Redirect } from "react-router-dom";
 import Jumbotron from "../../components/Jumbotron/Jumbotron";
 import API from "../../utils/API";
-import { Container } from "../../components/Grid";
+import { Container } from "../../components/Container";
 import { Input, FormButton } from "../../components/Form";
 
 class Search extends Component {

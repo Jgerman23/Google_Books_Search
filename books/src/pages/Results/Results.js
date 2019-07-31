@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Link } from 'react-router-dom';
-import { Container } from "../../components/Grid";
+import { Container } from "../../components/Container";
 import { List, ListItem } from "../../components/List";
 import BookButton from "../../components/BookButton/BookButton";
 import Jumbotron from "../../components/Jumbotron/Jumbotron";
